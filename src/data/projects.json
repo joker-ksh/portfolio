@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Buzz",
+    "imageSrc": "projects/project.png",
+    "description": "This is a chat app made for realtime chat between two end users",
+    "skills": ["React", "firebase", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Pocket pulse",
+    "imageSrc": "projects/project.png",
+    "description": "An application to manage and track transactions among friends.",
+    "skills": ["javascript", "Node", "Firebase"],
+    "demo": "https://660ffa4262a916177a7e1d68--wonderful-trifle-f1624b.netlify.app/",
+    "source": "https://github.com/joker-ksh/pocket-pulse"
+  },
+  {
+    "title": "Oasis infobyte",
+    "imageSrc": "projects/project.png",
+    "description": "Javascript Project intern for fundamentals and hands-on experience",
+    "skills": ["javascript", "css", "html"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

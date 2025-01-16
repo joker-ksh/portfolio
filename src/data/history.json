@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Project Team Lead",
+    "organisation": "IIIT KOTTAYAM",
+    "startDate": "Jan, 2023",
+    "endDate": "April 2023",
+    "experiences": ["College Project", "Lead the team"],
+    "imageSrc": "history/iiitk.png"
+  },
+  {
+    "role": "Javascript development",
+    "organisation": "Oasis infobyte",
+    "startDate": "May, 2023",
+    "endDate": "June 2023",
+    "experiences": ["Project Internship", "Leran the core of js"],
+    "imageSrc": "history/oasis infobyte.png"
+  }   
+]
